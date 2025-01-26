@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasiru Kularathne</h1>
 <h3 align="center">Computer Engineering Student | Full Stack Developer | Innovating with Embedded Systems, FPGA, and Machine Learning from Sri Lanka 🌟💻</h3>
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="yasiru-kularathne-79a911213" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/yasiru-kularathne-79a911213?trk=profile-badge">Yasiru Kularathne</a></div>
+              
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasirukularathne&label=Profile%20views&color=0e75b6&style=flat" alt="yasirukularathne" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasirukularathne" alt="yasirukularathne" /></a> </p>
