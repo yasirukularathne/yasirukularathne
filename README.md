@@ -95,10 +95,6 @@
   <a href="https://github.com/yasirukularathne/log-classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirukularathne&repo=log-classification&theme=tokyonight" />
   </a>
-  <a href="https://github.com/yasirukularathne/rainfall-prediction-galle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirukularathne&repo=rainfall-prediction-galle&theme=tokyonight" />
-  </a>
-</div>
 
 <div align="left">
   <h3>Rainfall Prediction with Machine Learning in Galle</h3>
