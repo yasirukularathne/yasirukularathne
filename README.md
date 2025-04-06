@@ -91,11 +91,6 @@
 <!-- ML/AI Projects Section -->
 <h2 align="center">🧠 Featured AI Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/yasirukularathne/log-classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirukularathne&repo=log-classification&theme=tokyonight" />
-  </a>
-
 <div align="left">
   <h3>Rainfall Prediction with Machine Learning in Galle</h3>
   <p>Developed machine learning models, including Linear Regression and Random Forest Regressor, to predict rainfall in Galle, Sri Lanka, using historical weather data. The Random Forest model achieved an R² score of 0.83, showcasing strong predictive accuracy. The project involved comprehensive data preprocessing, feature engineering, and hyperparameter tuning to optimize performance.</p>
