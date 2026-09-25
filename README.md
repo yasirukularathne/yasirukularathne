@@ -1,7 +1,7 @@
 <h1 align="center">Yasiru Kularathne</h1>
 
 <p align="center">
-  <strong>AI Engineer &nbsp;·&nbsp; Computer Engineering Undergraduate &nbsp;·&nbsp; Full-Stack Developer</strong><br>
+  <strong>AI Engineer &nbsp;·&nbsp; Computer Engineering graduate &nbsp;·&nbsp; Full-Stack Developer</strong><br>
   Building AI-powered applications, intelligent systems, and production-ready software.
 </p>
 
@@ -15,7 +15,7 @@
 
 ## About
 
-Final-year Computer Engineering undergraduate at the **University of Ruhuna**, focused on practical AI and software engineering. I take problems from idea to architecture, implementation, and deployment, building systems designed for real-world use.
+Computer Engineering graduate from the **University of Ruhuna**, focused on practical AI and software engineering. I take problems from idea to architecture, implementation, and deployment, building systems designed for real-world use.
 
 **Areas of interest**
 
